@@ -31,7 +31,7 @@ Checkout my website :
 
 📫 How to reach me: ...
 
-- [LinkedIn](https://raythompsonwebdev.co.uk)
-- [Discord](https://raythompsonwebdev.co.uk)
-- [Twitter](https://raythompsonwebdev.co.uk)
+- [LinkedIn](https://www.linkedin.com/in/raymond-t-web/)
+- [Facebook](https://www.facebook.com/raythompsonwebdeveloper)
+- [Twitter](https://twitter.com/RayThompWeb)
 
