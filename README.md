@@ -15,4 +15,6 @@
 - [LinkedIn](https://www.linkedin.com/in/raymond-t-web/)
 - Discord username : ray thompson#7096
 
-📫 Visit my website : [www.raythompsonwebdev.co.uk](https://raythompsonwebdev.co.uk/)
+📫 Visit my website :
+
+- [www.raythompsonwebdev.co.uk](https://raythompsonwebdev.co.uk/)
